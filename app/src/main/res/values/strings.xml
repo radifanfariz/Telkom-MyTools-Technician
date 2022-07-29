@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyToolsTechnician</string>
+    <string name="stppanel_prompt">Choose STP-PANEL</string>
+    <string name="stpport_prompt">Choose STP-PORT</string>
+    <string name="kendalateknis_prompt">Choose KENDALA-TEKNIS</string>
+    <string name="kendalanonteknis_prompt">Choose KENDALA-TEKNIS</string>
+    <string name="statusprov_prompt">Choose STATUS-PROV</string>
+    <string name="hello">Hello World, FileExplore!</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_info">Log Info</string>
+    <string name="log_provisioning_edit">Log Provisioning/Edit</string>
+    <string name="input_mateiral_prov">Input Mateiral Prov</string>
+    <string name="process_provisioning">Process Provisioning</string>
+    <string name="scanqr">scan qr dc</string>
+    <string name="jlhsoc">jlh soc</string>
+    <string name="date_time">Date Time</string>
+    <string name="pilih">Pilih</string>
+    <string name="id">ID</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="sf_name">Nama SF</string>
+    <string name="nomor_sf">Nomor SF</string>
+    <string name="status">Status</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="jlh_clamp_ring">jlh clamp ring</string>
+    <string name="jlh_s_clamp">jlh s.clamp</string>
+    <string name="upload_eviden0">Upload Eviden0</string>
+    <string name="jlh_tiang">jlh tiang</string>
+    <string name="jlh_split_stopper">jlh split stopper</string>
+    <string name="upload_eviden1">upload eviden1</string>
+    <string name="jlh_clamp_hook">jlh clamp hook</string>
+    <string name="upload_eviden4">upload eviden4</string>
+    <string name="upload_eviden2">upload eviden2</string>
+    <string name="upload_eviden3">upload eviden3</string>
+    <string name="upload_eviden5">upload eviden5</string>
+    <string name="jlh_roset_optic">jlh roset optic</string>
+    <string name="save_to_database">save to database</string>
+    <string name="userid">userid</string>
+    <string name="phone_number">phone number</string>
+    <string name="internet_number">internet number</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+
+
+    <string-array name="stppanel_arrays">
+        <item></item>
+        <item>SPLITTER-01</item>
+        <item>SPLITTER-02</item>
+    </string-array>
+
+    <string-array name="statusprov_array">
+        <item>ONPROGRESS</item>
+        <item>PS</item>
+    </string-array>
+
+
+    <string-array name="stpport_arrays">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+
+    <string-array name="kendalateknis_arrays">
+        <item></item>
+        <item>NIHIL</item>
+        <item>CHANGE DATEK</item>
+        <item>CHANGE PACKET</item>
+        <item>CROSSING JALAN</item>
+        <item>IKR-G TJP</item>
+        <item>KENDALA MATERIAL</item>
+        <item>ODP BLM GOLIVE</item>
+        <item>ODP FULL</item>
+        <item>ODP LOSS</item>
+        <item>ODP REDAMAN TINGGI</item>
+        <item>OTK</item>
+        <item>SPBT</item>
+        <item>TAMBAH TIANG</item>
+        <item>TIDAK ADA ALPRO</item>
+        <item>TIDAK ADA SPLITER</item>
+    </string-array>
+
+
+    <string-array name="kendalanonteknis_arrays">
+        <item></item>
+        <item>NIHIL</item>
+        <item>CP RNA</item>
+        <item>CP SALAH SAMBUNG</item>
+        <item>CP TDK AKTIF</item>
+        <item>CP TDK BISA DIHUBUNGI</item>
+        <item>DOEBLE INPUT</item>
+        <item>PELANGGAN RAGU</item>
+        <item>PENDING PELANGGAN</item>
+        <item>TIDAK MINAT</item>
+    </string-array>
+
+    <string-array name="jumlah">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
